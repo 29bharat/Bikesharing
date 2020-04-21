@@ -8,7 +8,7 @@
    
  ## Tableau Story
    
-   [I'm an inline-style link](https://public.tableau.com/profile/bharat5308#!/vizhome/BikeSharing_15874482529460/BikeShareProgram_1?publish=yes)
+   [BikeSharing Program Story](https://public.tableau.com/profile/bharat5308#!/vizhome/BikeSharing_15874482529460/BikeShareProgram_1?publish=yes)
   
  ### Sheet 1
    
@@ -34,7 +34,6 @@ Comparison of Mean Travel Time to Work and Per Capita Income making biking as mo
   
 This page compares the age and gender distributiion between the two cities giving us a rough estimate of what group of clientele should be targeted as well as maintain inventory stock accordingly.
   
+## Conclusion
   
-  
-  
-  https://public.tableau.com/profile/bharat5308#!/vizhome/BikeSharing_15874482529460/BikeShareProgram_1?publish=yes
+Although Des Moines is a far smaller in population when compared to New York City, it has lot of potential for BikeShare Program to be set up and expand based on other factors like population growth, travel time, income, weather trend, tourism and bike trails which can attract lot of Bikers. We can look to adding proper BikeShare website and smart phone apps to sign up people and also send out notifications for promotions and events like group biking, social gatherings for bikers which will encourage people to subscribe for memberships rather than just single use. 
